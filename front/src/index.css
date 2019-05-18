@@ -1,0 +1,12 @@
+html, body, #root {
+  background-color: #191919;
+  font-family: 'Ubuntu', sans-serif;
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+  color: #DADADA;
+}
+
+#root {
+  position: relative;
+}
